@@ -28,7 +28,7 @@ let userList = []
 let userIdx = 0
 let userCount = 0
 var msg = ''
-let newurl = "http://m.lykisvi.work"
+let newurl = "http://m.mmdixxe.work"
 ///////////////////////////////////////////////////////////////////
 class UserInfo {
     constructor(str) {
